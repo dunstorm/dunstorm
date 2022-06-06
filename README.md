@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dunstorm
-- 👀 I’m interested in Programming & building cool stuff.
-- 🌱 I’m currently learning AWS & entrepreneurship.
+- 👀 I’m interested in building cool stuff.
 
 <!---
 dunstorm/dunstorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
